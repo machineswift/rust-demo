@@ -1,5 +1,5 @@
 [package]
-name = "ab_first_word"
+name = "da_first_word"
 version = "0.1.0"
 authors = ["machine <machineswift@163.com>"]
 edition = "2018"

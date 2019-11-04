@@ -1,5 +1,5 @@
 [package]
-name = "ac_rectangle_area"
+name = "ea_rectangle_area"
 version = "0.1.0"
 authors = ["machine <machineswift@163.com>"]
 edition = "2018"
