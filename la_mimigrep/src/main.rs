@@ -1,7 +1,7 @@
 use std::env;
 use std::process;
-use ka_mimigrep::Config;
-use ka_mimigrep::run;
+use la_mimigrep::Config;
+use la_mimigrep::run;
 
 fn main() {
     let args: Vec<String> = env::args().collect();
