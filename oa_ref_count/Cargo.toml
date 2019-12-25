@@ -1,5 +1,5 @@
 [package]
-name = "oa_reference_count"
+name = "oa_ref_count"
 version = "0.1.0"
 authors = ["machine <machineswift@163.com>"]
 edition = "2018"
