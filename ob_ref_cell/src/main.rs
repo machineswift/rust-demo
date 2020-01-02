@@ -22,5 +22,3 @@ fn main() {
     println!("b after = {:?}", b);
     println!("c after = {:?}", c);
 }
-
-

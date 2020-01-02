@@ -1,5 +1,5 @@
 [package]
-name = "ha_common_collections"
+name = "ha_collections"
 version = "0.1.0"
 authors = ["machine <machineswift@163.com>"]
 edition = "2018"
