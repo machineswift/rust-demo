@@ -1,5 +1,5 @@
 [package]
-name = "qa_channel"
+name = "pc_mutex"
 version = "0.1.0"
 authors = ["machine <machineswift@163.com>"]
 edition = "2018"
